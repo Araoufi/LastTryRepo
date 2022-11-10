@@ -10,4 +10,9 @@ public class LastTryClass {
 		System.out.println("this is second last try");
 	}
 
+	public void lastTrySecondMethod() {
+		System.out.println("last try second test on last try session");
+	}
+	
+	
 }
